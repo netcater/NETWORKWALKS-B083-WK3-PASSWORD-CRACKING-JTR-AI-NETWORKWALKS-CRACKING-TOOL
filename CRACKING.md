@@ -118,7 +118,7 @@ hashcat -m 10500 -a 0 hc_hashes.txt wordlist.txt
 - [John the Ripper (Jumbo)](https://github.com/openwall/john)
 - [Johnny GUI](https://openwall.info/wiki/john/johnny)
 - [Hashcat](https://hashcat.net/hashcat/)
-- [pdf2john.py](https://github.com/openwall/john/blob/bleeding-jumbo/run/pdf2john.py)
+- [Claude AI]
 - NetworkWalks Hash Calculator & Password Cracker (internal training tools)
 
 ---
