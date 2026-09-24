@@ -48,7 +48,16 @@ The goal was to understand how weak, predictable passwords can be recovered usin
 
 🏁 Flag captured: `nw{networkwalks_flag1_jtr_270521_1}`
 
-[image!](jtrinstallation.PNG)
+![image](jtrinstallation.PNG)
+
+![image](jtrpdf1.PNG)
+
+![image](jtrpdf1cracked.PNG)
+
+![image](pdf2cracked.PNG)
+
+![image](pdf3cracked.PNG)
+
 ---
 
 ## 🛠️ Module 2 - Password Cracking with NetworkWalks Tools
