@@ -82,7 +82,7 @@ The goal was to understand how weak, predictable passwords can be recovered usin
 | My-Locked-PDF3.pdf | `1qaz2wsx` |
 
 
-![image](jtrpdf1.PNG)
+![image](firstCrack.PNG)
 
 
 ![image](secondCrack.PNG)
