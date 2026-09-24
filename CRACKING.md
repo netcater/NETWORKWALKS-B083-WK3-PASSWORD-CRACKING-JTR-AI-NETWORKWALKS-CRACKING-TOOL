@@ -29,7 +29,7 @@ The goal was to understand how weak, predictable passwords can be recovered usin
 
 ---
 
-## 🛠️ Module 1 — Password Cracking with John the Ripper (Johnny GUI)
+## 🛠️ Module 1 - Password Cracking with John the Ripper (Johnny GUI)
 
 **Steps performed:**
 1. Extracted the hash from a password-protected PDF using `pdf2john`.
@@ -50,7 +50,7 @@ The goal was to understand how weak, predictable passwords can be recovered usin
 
 ---
 
-## 🛠️ Module 2 — Password Cracking with NetworkWalks Tools
+## 🛠️ Module 2 - Password Cracking with NetworkWalks Tools
 
 **Steps performed:**
 1. Used the **NetworkWalks Hash Calculator** to extract the PDF hash.
@@ -70,7 +70,7 @@ The goal was to understand how weak, predictable passwords can be recovered usin
 
 ---
 
-## 🛠️ Module 3 — AI-Assisted Cracking Workflow
+## 🛠️ Module 3 - AI-Assisted Cracking Workflow
 
 **Steps performed:**
 1. Extracted hashes from all three locked PDFs (`pdf2john` format) and saved them into `.txt` files.
