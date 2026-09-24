@@ -46,7 +46,7 @@ The goal was to understand how weak, predictable passwords can be recovered usin
 | My-locked-PDF2.pdf | `password1` |
 | My-Locked-PDF3.pdf | `1qaz2wsx`  |
 
-🏁 Flag captured: `nw{networkwalks_flag1_jtr_270521_1}`
+
 
 ![image](jtrinstallation.PNG)
 
@@ -57,6 +57,9 @@ The goal was to understand how weak, predictable passwords can be recovered usin
 ![image](pdf2cracked.PNG)
 
 ![image](pdf3cracked.PNG)
+
+
+🏁 Flag captured: `nw{networkwalks_flag1_jtr_270521_1}`
 
 ---
 
@@ -73,6 +76,13 @@ The goal was to understand how weak, predictable passwords can be recovered usin
 | My-Locked-PDF2.pf  | `password1` |
 | My-Locked-PDF2.pdf | `password1` |
 | My-Locked-PDF3.pdf | `1qaz2wsx` |
+
+
+![image](jtrpdf1.PNG)
+
+![image](secondCrack.PNG)
+
+![image](thirdCrack.PNG)
 
 🏁 Flags captured:
 - `nw{networkwalks_persistence_jtr_270521}`
@@ -105,6 +115,12 @@ hashcat -m 10500 -a 0 hc_hashes.txt wordlist.txt
 | hash3.txt | `1qaz2wsx` |
 
 **Interesting finding:** `hash1` and `hash2` shared the **exact same owner-password hash component**, confirming password reuse across two separate PDF documents — meaning compromise of one document's password compromised both.
+
+![image](aicrak.PNG)
+
+![image](aicracking.PNG)
+
+![image](aicrakingresult.PNG)
 
 ---
 
