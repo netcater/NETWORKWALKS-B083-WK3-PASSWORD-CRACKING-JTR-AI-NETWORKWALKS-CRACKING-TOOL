@@ -120,7 +120,7 @@ hashcat -m 10500 -a 0 hc_hashes.txt wordlist.txt
 
 ![image](aicracking.PNG)
 
-![image](aicrakingresult.PNG)
+![image](aicrackingresult.PNG)
 
 ---
 
