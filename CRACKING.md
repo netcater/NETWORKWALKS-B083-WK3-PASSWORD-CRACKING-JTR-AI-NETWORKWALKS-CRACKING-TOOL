@@ -43,7 +43,8 @@ The goal was to understand how weak, predictable passwords can be recovered usin
 | File | Cracked Password |
 |------|-------------------|
 | My-Locked-PDF1.pdf | `password1` |
-
+| My-locked-PDF2.pdf | `password1` |
+| My-Locked-PDF3.pdf | `1qaz2wsx`  |
 🏁 Flag captured: `nw{networkwalks_flag1_jtr_270521_1}`
 
 ---
