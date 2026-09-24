@@ -50,11 +50,15 @@ The goal was to understand how weak, predictable passwords can be recovered usin
 
 ![image](jtrinstallation.PNG)
 
+
 ![image](jtrpdf1.PNG)
+
 
 ![image](jtrpdf1cracked.PNG)
 
+
 ![image](pdf2cracked.PNG)
+
 
 ![image](pdf3cracked.PNG)
 
@@ -80,9 +84,12 @@ The goal was to understand how weak, predictable passwords can be recovered usin
 
 ![image](jtrpdf1.PNG)
 
+
 ![image](secondCrack.PNG)
 
+
 ![image](thirdCrack.PNG)
+
 
 🏁 Flags captured:
 - `nw{networkwalks_persistence_jtr_270521}`
@@ -118,9 +125,12 @@ hashcat -m 10500 -a 0 hc_hashes.txt wordlist.txt
 
 ![image](aicrak.PNG)
 
+
 ![image](aicracking.PNG)
 
+
 ![image](aicrackingresult.PNG)
+
 
 ---
 
