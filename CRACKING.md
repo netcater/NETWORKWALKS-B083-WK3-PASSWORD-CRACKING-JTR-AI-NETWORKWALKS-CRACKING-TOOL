@@ -58,6 +58,7 @@ The goal was to understand how weak, predictable passwords can be recovered usin
 **Results:**
 | File | Cracked Password |
 |------|-------------------|
+| My-Locked-PDF2.pf  | `password1` |
 | My-Locked-PDF2.pdf | `password1` |
 | My-Locked-PDF3.pdf | `1qaz2wsx` |
 
